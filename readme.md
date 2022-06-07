@@ -1,3 +1,3 @@
 # name for heading
 
-##you guess ???   :thinking
+## you guess ???   :think
